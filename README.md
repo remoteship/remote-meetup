@@ -1,4 +1,4 @@
 <img src="./remote meetup.png">
 
-# meetups
+# remore-meetup
 To track and follow remote weekly meetups
